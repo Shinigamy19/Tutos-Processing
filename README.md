@@ -22,14 +22,14 @@ _O mira mas abajo la lista de clases._
 <li>  Como descargar processing || Tutorial Processing
 <br>
     <a href="https://youtu.be/t3wdMqamXbI">
-        <img src="https://i9.ytimg.com/vi_webp/t3wdMqamXbI/mqdefault.webp?v=6631d8f3&sqp=CPzlx7EG&rs=AOn4CLDlCMNG2sHEE51Buf7-X8412LKEhA" width="200">
+        <img src="Miniaturas/video1.png" width="200">
     </a>
 </li>
 
 <li>  Estructura, interface y primeros pasos || Tutorial Processing
 <br>
     <a href="https://youtu.be/t3wdMqamXbI">
-        <img src="https://i9.ytimg.com/vi_webp/Y58WvqgFGjs/mqdefault.webp?v=6631d9a0&sqp=CPzlx7EG&rs=AOn4CLBW_ag4sSZnZODLnJt6WdC4ZishHA" width="200">
+        <img src="Miniaturas/video2.png" width="200">
     </a>
 </li>
 
