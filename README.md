@@ -33,13 +33,14 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
-<!--<li>  Como se ponen textos mediante variables || Tutorial Processing
+<li>  Como se ponen textos mediante variables || Tutorial Processing
 <br>
     <a href="https://youtu.be/t3wdMqamXbI">
         <img src="Miniaturas/video3.png" width="200">
     </a>
 </li>
-<li>  Haciendo una pokebola con figuras primitivas || Tutorial Processing
+
+<!--<li>  Haciendo una pokebola con figuras primitivas || Tutorial Processing
 <br>
     <a href="https://youtu.be/qDs_7_1YerE">
         <img src="Miniaturas/video4.png" width="200">
