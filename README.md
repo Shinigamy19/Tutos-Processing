@@ -40,14 +40,14 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
-<!--<li>  Haciendo una pokebola con figuras primitivas || Tutorial Processing
+<li>  Haciendo una pokebola con figuras primitivas || Tutorial Processing
 <br>
     <a href="https://youtu.be/qDs_7_1YerE">
         <img src="Miniaturas/video4.png" width="200">
     </a>
 </li>
 
-<li>  Creando Objetos y explicación de Conceptos || Tutorial Processing
+<!--<li>  Creando Objetos y explicación de Conceptos || Tutorial Processing
 <br>
     <a href="https://youtu.be/gQRdkHIJEwE">
         <img src="Miniaturas/video5.png" width="200">
