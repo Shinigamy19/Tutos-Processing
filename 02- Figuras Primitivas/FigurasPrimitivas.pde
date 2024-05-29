@@ -20,7 +20,7 @@ void setup() {
 }
 
 void draw() {
-  println (mouseX +"," + mouseY); //Esto es para mostrar las coordenadas del mouse. Como console log.
+  println("Posicion X: " + mouseX + ", " + "Posicion Y: " + mouseY); //Esto es para mostrar las coordenadas del mouse. Como console log.
   
 
   fill(azul);
