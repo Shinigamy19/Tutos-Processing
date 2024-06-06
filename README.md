@@ -28,14 +28,14 @@ _O mira mas abajo la lista de clases._
 
 <li>  Estructura, interface y primeros pasos || Tutorial Processing
 <br>
-    <a href="https://youtu.be/t3wdMqamXbI">
+    <a href="https://youtu.be/Y58WvqgFGjs">
         <img src="Miniaturas/video2.png" width="200">
     </a>
 </li>
 
 <li>  Como se ponen textos mediante variables || Tutorial Processing
 <br>
-    <a href="https://youtu.be/t3wdMqamXbI">
+    <a href="https://youtu.be/1KpZsCDjiL8">
         <img src="Miniaturas/video3.png" width="200">
     </a>
 </li>
@@ -54,12 +54,39 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
-<!--<li>  Como descargar processing || Tutorial Processing
+<!--
+<li>  Creando nuestra interfaz || Tutorial Processing
+<br>
+    <a href="https://youtu.be/-CHD7euDleo">
+        <img src="Miniaturas/video6.png" width="200">
+    </a>
+</li>
+
+<li>  Lógica de botones || Tutorial Processing
+<br>
+    <a href="https://youtu.be/h64oH0vO9KQ">
+        <img src="Miniaturas/video7.png" width="200">
+    </a>
+</li>
+
+<li>  Boton volver || Tutorial Processing
+<br>
+    <a href="https://youtu.be/fzQRIPtb9b4">
+        <img src="Miniaturas/video8.png" width="200">
+    </a>
+</li>
+
+EJEMPLO:
+<li>  Como descargar processing || Tutorial Processing
 <br>
     <a href="https://youtu.be/t3wdMqamXbI">
         <img src="curso en processing.png" width="200">
     </a>
 </li>-->
+
+
+
+
 <br>
 </ol>
 <h3 align="center">Mis redes sociales:</h3>
