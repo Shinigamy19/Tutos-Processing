@@ -75,7 +75,36 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
-<!--EJEMPLO:
+<!--
+<li>  Botón circular y controlador de escenas || Tutorial Processing
+<br>
+    <a href="https://youtu.be/KyPsGKkgvyc">
+        <img src="Miniaturas/video9.png" width="200">
+    </a>
+</li>
+
+<li>  Imágenes con PImage || Tutorial Processing
+<br>
+    <a href="https://youtu.be/irfOAjv3bV0">
+        <img src="Miniaturas/video10.png" width="200">
+    </a>
+</li>
+
+<li>  Fondo con Imágenes || Tutorial Processing
+<br>
+    <a href="https://youtu.be/zKCzmwgMtaE">
+        <img src="Miniaturas/video11.png" width="200">
+    </a>
+</li>
+
+<li>  PGraphics || Tutorial Processing
+<br>
+    <a href="https://youtu.be/wNMsiJlGofw">
+        <img src="Miniaturas/video12.png" width="200">
+    </a>
+</li>
+
+EJEMPLO:
 <li>  Como descargar processing || Tutorial Processing
 <br>
     <a href="https://youtu.be/t3wdMqamXbI">
