@@ -104,6 +104,13 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
+<li>  El audio con Minim || Tutorial Processing
+<br>
+    <a href="https://youtu.be/czj4ejmoaBc">
+        <img src="Miniaturas/video12.png" width="200">
+    </a>
+</li>
+
 EJEMPLO:
 <li>  Como descargar processing || Tutorial Processing
 <br>
