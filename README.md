@@ -75,7 +75,6 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
-<!--
 <li>  Botón circular y controlador de escenas || Tutorial Processing
 <br>
     <a href="https://youtu.be/KyPsGKkgvyc">
@@ -83,6 +82,7 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
+<!--
 <li>  Imágenes con PImage || Tutorial Processing
 <br>
     <a href="https://youtu.be/irfOAjv3bV0">
