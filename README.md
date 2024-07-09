@@ -82,7 +82,6 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
-<!--
 <li>  Imágenes con PImage || Tutorial Processing
 <br>
     <a href="https://youtu.be/irfOAjv3bV0">
@@ -90,6 +89,7 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
+<!--
 <li>  Fondo con Imágenes || Tutorial Processing
 <br>
     <a href="https://youtu.be/zKCzmwgMtaE">
