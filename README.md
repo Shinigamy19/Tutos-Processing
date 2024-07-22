@@ -96,7 +96,6 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
-<!--
 <li>  PGraphics || Tutorial Processing
 <br>
     <a href="https://youtu.be/wNMsiJlGofw">
@@ -104,6 +103,7 @@ _O mira mas abajo la lista de clases._
     </a>
 </li>
 
+<!--
 <li>  El audio con Minim || Tutorial Processing
 <br>
     <a href="https://youtu.be/czj4ejmoaBc">
