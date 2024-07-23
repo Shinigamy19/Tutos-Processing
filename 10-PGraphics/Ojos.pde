@@ -51,10 +51,10 @@ void setup() {
   smooth();
 
   //Imagenes
-  umbreon =loadImage("assets/img/Umbreon.png");
+  umbreon =loadImage("assets/img/Umbreon.png"); //Agarramos nuestra imagenes y las cargamos
   fondo =loadImage("assets/img/Fondo.png");
 
-  ojo = createGraphics(50,50);
+  ojo = createGraphics(50,50); //Creamos el canva de nuestro pgraphic
 }
 
 void draw() {

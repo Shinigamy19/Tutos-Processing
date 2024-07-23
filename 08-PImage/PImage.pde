@@ -51,7 +51,7 @@ void setup() {
   smooth();
 
   //Imagenes
-  umbreon =loadImage("assets/img/Umbreon.png");
+  umbreon =loadImage("assets/img/Umbreon.png"); //Cargamos nuestra imagen.
 }
 
 void draw() {

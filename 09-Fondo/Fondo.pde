@@ -51,8 +51,9 @@ void setup() {
   smooth();
 
   //Imagenes
-  umbreon =loadImage("assets/img/Umbreon.png");
+  umbreon =loadImage("assets/img/Umbreon.png"); //Agarramos nuestra imagenes y las cargamos
   fondo =loadImage("assets/img/Fondo.png");
+
 }
 
 void draw() {
