@@ -107,9 +107,15 @@ _O mira mas abajo la lista de clases._
 <li>  El audio con Minim || Tutorial Processing
 <br>
     <a href="https://youtu.be/czj4ejmoaBc">
-        <img src="Miniaturas/video12.png" width="200">
+        <img src="Miniaturas/video13.png" width="200">
     </a>
 </li>
+
+<li>  PFont como poner tipografías || Tutorial Processing
+<br>
+    <a href="https://youtu.be/A6_f75R8EZ8">
+        <img src="Miniaturas/video14.png" width="200">
+    </a>
 
 EJEMPLO:
 <li>  Como descargar processing || Tutorial Processing
