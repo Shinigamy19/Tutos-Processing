@@ -122,14 +122,13 @@ _O mira mas abajo la lista de clases._
         <img src="Miniaturas/video15.png" width="200">
     </a>
 </li>
-<!--
-EJEMPLO:
-<li>  Como descargar processing || Tutorial Processing
+
+<li>  Optimizacion y Exportado del proyecto. || Tutorial Processing
 <br>
-    <a href="https://youtu.be/t3wdMqamXbI">
-        <img src="curso en processing.png" width="200">
+    <a href="https://youtu.be/jkOzyKR1VkA">
+        <img src="Miniaturas/video16.png" width="200">
     </a>
-</li>-->
+</li>
 
 
 
